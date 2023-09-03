@@ -1,2 +1,2 @@
 # Blog
-A Blog using Flask currently working
+A Blog using Flask, currently working on this project
